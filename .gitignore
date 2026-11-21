@@ -1,0 +1,15 @@
+# whitelist
+*
+!*/
+!.gitignore
+
+# chart only
+!*.aff
+!*.arcproj
+!*.sc.json
+Arcade/
+*backup*
+
+# ignore my friend's files
+2 Terocrim/
+Other-Charters/
