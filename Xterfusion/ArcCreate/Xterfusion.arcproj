@@ -1,0 +1,29 @@
+lastOpenedChartPath: 4.aff
+charts:
+- chartPath: 3.aff
+  audioPath: base.ogg
+  jacketPath: bg_vignette.jpg
+  baseBpm: 256
+  bpmText: 192-256
+  syncBaseBpm: true
+  backgroundPath: bg_vignette.jpg
+  title: Xterfusion
+  composer: RED ALiCE / t+pazolite
+  charter: MV VFX
+  difficulty: Beyond
+  difficultyColor: '#A5203FFF'
+  previewEnd: 5000
+- chartPath: 4.aff
+  audioPath: base.ogg
+  jacketPath: bg_vignette.jpg
+  baseBpm: 256
+  bpmText: 192-256
+  syncBaseBpm: true
+  backgroundPath: bg_vignette.jpg
+  title: Xterfusion
+  composer: RED ALiCE / t+pazolite
+  charter: ETR + MV VFX
+  difficulty: Eternal
+  difficultyColor: '#6E4BA8FF'
+  lastWorkingTiming: 168523
+  previewEnd: 5000
